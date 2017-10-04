@@ -1,0 +1,22 @@
+{
+  "name": "my-first-repo",
+  "version": "1.0.0",
+  "description": "This is my first repository on Github!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awest36/my-first-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awest36/my-first-repo/issues"
+  },
+  "homepage": "https://github.com/awest36/my-first-repo#readme",
+  "dependencies": {
+    "modernizr": "^3.5.0"
+  }
+}
